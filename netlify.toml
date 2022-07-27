@@ -1,6 +1,6 @@
 [build]
   command="ng build"
-  publish="dist/angular-quickstart"
+  publish="dist/kirbydevelops-angular-jamstack"
 
 [[redirects]]
   from = "/*"
