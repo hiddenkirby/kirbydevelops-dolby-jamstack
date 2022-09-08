@@ -1,6 +1,6 @@
 export class Config {
   public static config = {
-    theme: 'vertical', // default, collapse, horizontal
-    themeType: 'light' // default, dark, light
+    theme: 'collapsed', // default, collapsed, horizontal
+    themeType: 'light', // default, dark, light
   };
 }
